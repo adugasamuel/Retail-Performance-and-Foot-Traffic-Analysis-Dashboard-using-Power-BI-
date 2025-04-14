@@ -1,5 +1,5 @@
 
-# Retail Performance and Foot Traffic Analysis Dashboard using Power BI
+# Retail Performance and Foot Traffic Analysis Dashboard
 
 ## Introduction  
 This project explores customer behavior, sales patterns, and employee satisfaction across various retail outlets: Sydney, Adelaide, Brisbane, Melbourne, and Perth in Australia. Using Power BI, the data was transformed into an interactive dashboard that provides a comprehensive overview of how retail store type, customer demographics, sales trends, payment preferences, and foot traffic contribute to business performance. The analysis also includes employee satisfaction, which is critical for internal efficiency and customer service delivery.
