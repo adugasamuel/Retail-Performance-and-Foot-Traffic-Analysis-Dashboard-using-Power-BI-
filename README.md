@@ -66,4 +66,7 @@ The Power BI dashboard is fully interactive and user-friendly, allowing stakehol
 • Evaluate low-performing store types or regions for potential rebranding, support, or restructuring.  
 • Introduce loyalty programs tailored for high-engagement age groups and regions.
 
+The recommendations aim to improve business performance by aligning inventory and staffing with peak customer behaviors, 
+enhancing customer engagement strategies, and addressing employee dissatisfaction that may affect service quality.
+
 ## Thank you!
