@@ -4,6 +4,9 @@
 ## Introduction  
 This project explores customer behavior, sales patterns, and employee satisfaction across various retail outlets: Sydney, Adelaide, Brisbane, Melbourne, and Perth in Australia. Using Power BI, the data was transformed into an interactive dashboard that provides a comprehensive overview of how retail store type, customer demographics, sales trends, payment preferences, and foot traffic contribute to business performance. The analysis also includes employee satisfaction, which is critical for internal efficiency and customer service delivery.
 
+**[View Project](https://app.powerbi.com/view?r=eyJrIjoiMWVkMjdmYWEtN2ZkOS00NjFhLWI5YTMtNDJmYmE1NTc3MzM3IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=ReportSection)**
+
+
 ## Problem Statement  
 Retail chains often face challenges in understanding customer behavior, optimizing peak store hours, and identifying top-performing product categories and store types. Additionally, businesses struggle to align employee satisfaction with customer experience. Without clear insights, decision-making is delayed, marketing efforts may be misaligned, and customer retention strategies suffer.
 
