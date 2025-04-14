@@ -66,4 +66,4 @@ The Power BI dashboard is fully interactive and user-friendly, allowing stakehol
 • Evaluate low-performing store types or regions for potential rebranding, support, or restructuring.  
 • Introduce loyalty programs tailored for high-engagement age groups and regions.
 
-**Thank you!**
+**Thank you!
